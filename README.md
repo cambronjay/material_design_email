@@ -3,7 +3,7 @@ An email template, based on material design, which is compliant with all major e
 It has been tested with Litmus and real email sends. It is mobile responsive and accounts for email notifications. 
 Feel free to mix and match the material design cards.
 
-Things to remember: 
+Things to remember:
 -title tag
 -preview text
 -alt tags on images
