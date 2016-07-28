@@ -4,9 +4,13 @@ It has been tested with Litmus and real email sends. It is mobile responsive and
 Feel free to mix and match the material design cards.
 
 Things to remember:
+
 -title tag
+
 -preview text
+
 -alt tags on images
+
 -upload images to your server and link to them directly within the email
 
 Have fun and buy me a bourbon!
